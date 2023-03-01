@@ -1,0 +1,9 @@
+.leaflet-container {
+	display: inline-table;
+	left: 25%;
+	width: 50%;
+	height: 50vh;
+	position: absolute;
+	border-color: blue;
+	border-style: solid;
+}
